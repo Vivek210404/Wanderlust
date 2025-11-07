@@ -30,7 +30,8 @@ Airbnb is a full-stack web application for exploring, listing, and booking vacat
 
 ---
 
-## 🚀 Getting Started
+## ISSUE (Edited)
+Actually there is issue of render which is taking time to load the home page
 
 ### Prerequisites
 
